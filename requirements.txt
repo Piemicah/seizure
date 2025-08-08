@@ -5,3 +5,4 @@ seaborn
 pyedflib
 tensorflow
 pywt
+PyWavelets
