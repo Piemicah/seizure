@@ -4,4 +4,4 @@ scikit-learn
 seaborn
 pyedflib
 tensorflow
-PyWavelets
+pywt
